@@ -1,0 +1,17 @@
+.navbar {
+    position: fixed;
+    z-index: 1;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: white;
+}
+
+.inner a{
+    width: 48px;
+    padding: 8px;
+}
+
+.inner img {
+    width: 100%;
+}
